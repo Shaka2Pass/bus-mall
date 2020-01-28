@@ -1,4 +1,4 @@
-export const mallItems = [
+export const mallData = [
     {
         id: 'bag',
         image: 'assets/bag.jpg',
