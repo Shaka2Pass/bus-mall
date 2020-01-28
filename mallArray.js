@@ -1,112 +1,108 @@
 export const mallItems = [
-{
-    id: 'bag',
-    image: 'assets/bag.jpg',
-    name: 'R2D2 Bag'
-},
-{
-    id: 'banana',
-    image: 'assets/bathroom.jpg',
-    name: 'Banana Cutter'
-},
+    {
+        id: 'bag',
+        image: 'assets/bag.jpg',
+        name: 'R2D2 Bag'
+    },
+    {
+        id: 'banana',
+        image: 'assets/bathroom.jpg',
+        name: 'Banana Cutter'
+    },
 
-{
-    id: 'bathroom',
-    image: 'assets/bathroom.jpg',
-    name: 'ipad Toilet Paper Rack',
-},
+    {
+        id: 'bathroom',
+        image: 'assets/bathroom.jpg',
+        name: 'ipad Toilet Paper Rack',
+    },
 
-{
-    id: 'boots',
-    image: 'assets/boots.jpg',
-    name: 'Toeless Rainboots',
-},
-{
-    id:'breakfast',
-    image:'assets/breakfast.jpg',
-    name:'Full Breakfast Machine',
-},
+    {   
+        id: 'boots',
+        image: 'assets/boots.jpg',
+        name: 'Toeless Rainboots',
+    },
+    {
+        id:'breakfast   ',
+        image:'assets/breakfast.jpg',
+        name:'Full Breakfast Machine',
+    },
 
-{
-    id:'bubblegum',
-    image:'assets/bubblegum.jpg',
-    name:'
-},
-{
-    id:
-    image:'assets/chair.jpg'
-    name:
-},
+    {
+        id:'bubblegum',
+        image:'assets/bubblegum.jpg',
+        name:'Meat Ball Bubblegum',
+    },
+    {
+        id:'chair   ',
+        image:'assets/chair.jpg',
+        name:'Red bubble Chair',
+    },
 
-{
-    id:
-    image:'assets/cthulhu.jpg'
-    name:
-},
-{
-    id:
-    image:'assets/dog-duck.jpg'
-    name:
-},
+    {
+        id:'cthulu',
+        image:'assets/cthulhu.jpg',
+        name:'Cthulu Figurine',
+    },
+    {
+        id:'dog-duck   ',
+        image:'assets/dog-duck.jpg',
+        name:'Duck billed Dog',
+    },
+    {
+        id:'dragon',
+        image:'assets/dragon.jpg',
+        name:'Dragon Meat',
+    },
+    {
+        id:'pen   ',
+        image:'assets/pen.jpg',
+        name:'Silverware Pens',
+    },
+    {
+        id:'pet-sweep',
+        image:'assets/pet-sweep.jpg',
+        name:'Pet Paw Sweepers'
+    },
+    {
+        id:'scissors   ',
+        image:'assets/scissors.jpg',
+        namee:'Pizza Scissors'
+    },
 
-{
-    id:
-    image:'assets/dragon.jpg'
-    name:
-},
-{
-    id:
-    image:'assets/pen.jpg'
-    name:
-},
+    {
+        id:'shark',
+        image:'assets/shark.jpg',
+        name:'Shark Sleeping Bag',
+    },
+    {
+        id:'sweep   ',
+        image:'assets/sweep.png',
+        name:'Baby Sweeper',
+    },
+    {
+        id:'tauntaun',
+        image:'assets/tauntaun.jpg',
+        name:'Tauntaun Sleeping Bag',
+    },
+    {
+        id:'unicorn',
+        image:'assets/unicorn.jpg',
+        name:'Unicorn Meat',
+    },
+    {
+        id:'usb',
+        image:'assets/usb.gif',
+        name:'Usb Tentacle',
+    },
+    {
+        id:'water-can',
+        image:'assets/water-can.jpg',
+        name:'Bottomless Watering-Can',
+    },
+    {
+        id:'wine-glass',
+        image:'assets/wine-glass.jpg',
+        name:'Wine Dome Glass',    
+    }       
 
-{
-    id:
-    image:'assets/pet-sweep.jpg'
-    name:
-},
-{
-    id:
-    image:'assets/scissors.jpg'
-    name:
-},
-
-{
-    id:
-    image:'assets/shark.jpg'
-    name:
-},
-{
-    id:
-    image:'assets/sweep.jpg'
-    name:
-}
-{
-    id:
-    image:'assets/tauntaun.jpg'
-    name:
-}
-{
-    id:
-    image:'assets/unicorn.jpg'
-    name:
-}
-{
-    id:
-    image:'assets/usb.jpg'
-    name:
-}
-{
-    id:
-    image:'assets/water-can.jpg'
-    name:
-}
-{
-    id:
-    image:'assets/wine-glss.jpg'
-    name:
-}
-
-
-
-]
+];
