@@ -66,7 +66,7 @@ export const mallData = [
     {
         id:'scissors   ',
         image:'assets/scissors.jpg',
-        namee:'Pizza Scissors'
+        name:'Pizza Scissors'
     },
 
     {

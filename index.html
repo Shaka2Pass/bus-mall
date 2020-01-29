@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
+</html>
 
 <body>
     <header>
@@ -16,27 +15,33 @@
 
     <main>
         <section id="Product Selection">
-            <h2 id="product name"></h2>
+            <h2 id="product-name"></h2>
                 <div id="product choice container"></div>
+
                     <label class="Product 1"></label>
-                        <input type="radio" name="product" value="">
-                        <img src="">
+                        <span id="product1Span"></span>
+                        <input id="product1" type="radio" name="product" value="">
+                        <img id="img1" src="">
                     </label>
+                    
                     <label class="Product 2"></label>
-                        <input type="radio" name="product" value="">
-                        <img src="">
+                        <span id="product2Span"></span>
+                        <input id="product2" type="radio" name="product" value="">
+                        <img id="img2" src="">
                     </label>
+                    
                     <label class="Product 3"></label>
-                        <input type="radio" name="product" value="">
-                        <img src="">
+                        <span id="product3Span"></span>
+                        <input id="product3" type="radio" name="product" value="">
+                        <img id="img3" src="">
                     </label>
+                
                 </div>
                 <p id="next-product-container">
-                    <button id="next-product-button">Choose Next Products</button>
+                    <button id="submit-button">Submit</button>
                 </p>
         </section>
     </main>
-
     <script type="module" src="app.js"></script>
 </body>
 
